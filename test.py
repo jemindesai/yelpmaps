@@ -1,0 +1,3 @@
+def stupid():
+  print('a')
+  
